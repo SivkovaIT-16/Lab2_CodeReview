@@ -116,7 +116,7 @@ void Queue::Print() const
         Current = Current->Next;
     }
     // FIX_ME: добавлен std::
-    // cout << endl;
+    //cout << endl;
     std::cout << std::endl;
 }
 
