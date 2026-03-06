@@ -62,8 +62,6 @@ int GetValidNumber(const std::string& Prompt, int Index)
 //int main() {
 int main()
 {
-    SetConsoleCP(1251);     
-    SetConsoleOutputCP(1251);
     setlocale(LC_ALL, "Russian");
 
     // FIX_ME: имена переменных не могут быть написаны транслитом
