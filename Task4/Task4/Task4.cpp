@@ -14,7 +14,7 @@
 #include <iostream>
 
 // FIX_ME: using namespace std в глобальной области видимости
-using namespace std;
+//using namespace std;
 
 // FIX_ME: добавлена функция очистки ввода
 void ClearInput()
